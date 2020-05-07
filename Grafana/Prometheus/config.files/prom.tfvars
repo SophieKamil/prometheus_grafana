@@ -1,0 +1,11 @@
+region		                    =			"eu-west-2"
+s3_bucket                       =	        "task3bucketprom"
+s3_folder_region                =	        "eu-west-2"
+#zone_id			                =	        "Z06454972JCWD3BHXCAX7"
+domain			                =	        "35.177.121.144"
+#Please do not change below
+environment                     =   	"dev"
+s3_folder_project               =   	"prometheus"
+s3_folder_type                  =   	"prometheus"
+s3_tfstate_file                 =   	"prometheus.tfstate"
+instance_type                   =       "t2.micro"
